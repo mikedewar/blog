@@ -1,4 +1,4 @@
 baseURL = ""
 languageCode = "en-us"
 title = "algodesign"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
