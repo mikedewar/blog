@@ -1,4 +1,5 @@
 baseURL = ""
 languageCode = "en-us"
 title = "algodesign"
-theme = "ananke"
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke
