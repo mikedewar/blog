@@ -1,4 +1,17 @@
 baseURL = ""
 languageCode = "en-us"
-title = "algodesign"
-theme = "ananke"
+title = "machines for algorithms"
+theme = "paper"
+
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    github = "https://github.com/mikedewar"
+    twitter = "https://twitter.com/mikedewar"
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
