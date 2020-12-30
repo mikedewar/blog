@@ -4,11 +4,11 @@ date: 2013-11-25
 draft: false
 ---
 
-# Introduction
-
 I wrote this toward the end of 2013 while I was working at the New York Times R&D lab and was exploring ideas around how to work with live data. Now, after a few years of working with "real" e.g. non-media data this post seems awfully naive. Nonetheless there are a few ideas here that I still enjoy - streams as a common mechanism for data distribution, and data scientists managing their own stores of data. 
 
 I'm capturing it here for posterity.
+
+---
 
 # The Big Wheel Data Science Manifesto
 
