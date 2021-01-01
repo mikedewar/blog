@@ -2,7 +2,7 @@
 title: "Designing at a Distance"
 author: "Michael Dewar"
 date: 2020-12-28T18:26:48Z
-draft: false
+draft: true
 --- 
 
 Designing with algorithms is a strange, distant activity. We build products by writing recipes of nearly-text that describe how something elsewhere should happen at some later date. Like any text we’re not going to be there when our algorithms are “read”. But unlike other text it’s not the algorithm - the thing we wrote - that’s read, it’s the algorithm’s output that’s experienced as a product. When we design with algorithms we are twice removed from the artifact we’re designing; the text we write isn’t read, and the experience happens without us.   
