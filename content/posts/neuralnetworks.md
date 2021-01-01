@@ -1,12 +1,10 @@
 ---
 title: "Neural Networks in Media"
-date: 2017-01-01
+date: 2016-01-01
 draft: false
 ---
 
 I wrote this at the end of my tenure at the NYT R&D Lab in 2016. I was trying to get at something about how the rich-get-richer cycle that AI encapsulates is important to pay attention to. Since I wrote it the effect has become blisteringly obvious, though whether or not it gets spoken about openly or if it's generally that interesting to people is not something I've kept up with. 
-
-It's hard to write this sort of thing as a data scientist without sounding jealous or grumpy. I think I did OK though!
 
 I'm recording it here for posterity.
 
